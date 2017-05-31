@@ -1,12 +1,14 @@
 /*
-Osnovna tabele
 
-- Interfejs (prikaz tablice) [x]
-- Generisanje tablice [x]
+todo
+
+- Generate tabele [x]
+- Generate numebers in table [x]
+- Create button to start timer and generate table [x]
 - Dugme za generisanje nove tablice i pokretanje tajmera [x]
-- Tajmer koji radi prema opisanoj logici, zaustavlja se kad se klikne na poslednji broj [x]
-- Pravilna logika za rešavanje tablice [x]
-- Izbor velicine tablice [x]
+- Timer start/stop [x]
+- Solving tabel functionality [x]
+- Select table dimension [x]
 
 */
 
