@@ -5,7 +5,6 @@ todo
 - Generate tabele [x]
 - Generate numebers in table [x]
 - Create button to start timer and generate table [x]
-- Dugme za generisanje nove tablice i pokretanje tajmera [x]
 - Timer start/stop [x]
 - Solving tabel functionality [x]
 - Select table dimension [x]
